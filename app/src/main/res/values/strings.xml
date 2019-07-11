@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wisata Jogja</string>
+
+    <string-array name="home_screen">
+        <item>Wisata Alam</item>
+        <item>Wisata Pantai</item>
+        <item>Wisata Sejarah</item>
+        <item>Wisata Kuliner</item>
+    </string-array>
+</resources>
